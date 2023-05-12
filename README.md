@@ -6,10 +6,12 @@ El código es un script de Python que utiliza la biblioteca paho.mqtt.client par
 
 El código se divide en varias secciones y utiliza funciones proporcionados por la biblioteca "paho.mqtt.client" para establecer la conexión MQTT, suscribirse a un tópico, enviar y recibir mensajes.
 
-## ** Tecnologias utilizadas: **
+<p>
+##Tecnologias utilizadas:
 * git y github
 * mqtt y libreria de paho para python
 * servidor en aws y libreria de mosquitto
+</p>
 
 * Es necesario correr "pip install paho-mqtt" para que la conexion con el servidor MQTT sea exitosa.
 * Es necesario dar una ip publica en la que este corriendo mosquitto.
