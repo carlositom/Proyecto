@@ -44,7 +44,7 @@ while True:
     if msg == "Stop" or msg == "stop":
         break
 
-#Desconeccion del cliente
+#Desconexion del cliente
 client.disconnect()
 client.loop_stop()
 
