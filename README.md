@@ -17,5 +17,5 @@ El código se divide en varias secciones y utiliza funciones proporcionados por 
 * Es necesario dar una ip publica en la que este corriendo mosquitto.
 * Para despues dar el usuario y el topico al que se va a suscribir.
 * Es importante que el topico sea el mismo para ambos clientes.
-* Para salir se debe escribir "stop" o "Stop".\
+* Para salir se debe escribir "stop" o "Stop".
 </div>
